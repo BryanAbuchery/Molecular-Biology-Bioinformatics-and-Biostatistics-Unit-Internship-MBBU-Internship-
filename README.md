@@ -1,6 +1,9 @@
 # Molecular-Biology-Bioinformatics-and-Biostatistics-Unit-Internship-MBBU-Internship-
+
 A description of what I hope to achieve during and after my MBBU Internship Program
+
 Hello, and Welcome
+
 My name is Bryan Abuchery, an intern at the Molecular Biology Bioinformatics and Biostatistics Unit hosted at ICIPE. I graduated from Moi University with a degree in Bachelor of Science in Microbiology. My training at school and subsequent student attachement and internship at KEMRI laboratories and BSL at USAMRU-K in Kisumu respectively convinced me that there was more to Microbiology. This opened up the Molecular Biology world for me and I became engrossed ever since. Not long after, I discovered yet an interesting field of Bioinformatics and became very enthused. I feel that my path building on up to this point has led me to ICIPE, a hub that trains and mentors aspiring Molecular Biologists and Bioinformaticians. 
 
 Vision
