@@ -13,27 +13,41 @@ It is my vision that at the end of my training/internship at ICIPE, I shall have
 Goals
 
 a) Go through the contents of the provided Bioinformatics Internship Curriculum as outlined here; https://github.com/mbbu/Bioinformatics_Internship_2020 This involves strictly adhering to the following guideline:
+
 Introduction to Collaborative tools (1 day)
 
 Git and GitHub
+
 Slack for communications
+
 Introduction to genomics (3 days)
 
 Project organisation
+
 Introduction to Linux
+
 The unix shell
+
 Intro to linux
+
 Introduction to HPC and cloud computing
+
 Open Science (1-day workshop)
 
 Reproducible genomic data analysis
+
 Genomics Data Management Plan
+
 Introduction to Bioinformatics (for this part, we will use the H3ABioNet programs) —One Week Self-paced Quick Introduction to these concepts.
 
 Introduction to Biological Databases
+
 Introduction to sequence alignment
+
 Introduction to genomics
+
 Introduction to Phylogenetics
+
 Complete a Mini-project
 
 b) Create and assign a to-do list that contnually adds tasks and checklist for the contents of the Internship curriculum.
