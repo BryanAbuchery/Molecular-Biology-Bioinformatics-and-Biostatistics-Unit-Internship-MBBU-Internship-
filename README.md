@@ -38,7 +38,7 @@ Reproducible genomic data analysis
 
 Genomics Data Management Plan
 
-Introduction to Bioinformatics (for this part, we will use the H3ABioNet programs) —One Week Self-paced Quick Introduction to these concepts.
+Introduction to Bioinformatics (for this part, use the H3ABioNet programs) —One Week Self-paced Quick Introduction to these concepts.
 
 Introduction to Biological Databases
 
