@@ -52,4 +52,16 @@ b) Create and assign a to-do list that contnually adds tasks and checklist for t
 
 c) Network with my colleagues, trainers and mentors for future Bioinformatics collaborations, research contributions and opportunities.
 
-d) Use knowledge and skills acquired throughout the internship propel me into pursuing further Bioinformatics post graduate studies. 
+d) Use knowledge and skills acquired throughout the internship propel me into pursuing further Bioinformatics post graduate studies.
+
+#Shortterm goals from the Bioinformatics Internship
+
+*Understand the use of programming languages used in Bioinformatics.
+
+*Learn and understand how to use biostatistics as an analysis tool.
+
+#Longterm goals from the Bioinformatics Internship
+
+*Define a career path in Bioinformatics according to the ISCB Curriculum
+
+*Advance further studies in Bioinformatics, starting with an MSC in the same path.
