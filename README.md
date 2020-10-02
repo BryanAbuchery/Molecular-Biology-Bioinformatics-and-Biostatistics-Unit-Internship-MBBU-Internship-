@@ -54,13 +54,13 @@ c) Network with my colleagues, trainers and mentors for future Bioinformatics co
 
 d) Use knowledge and skills acquired throughout the internship propel me into pursuing further Bioinformatics post graduate studies.
 
-#Shortterm goals from the Bioinformatics Internship
+## Shortterm goals from the Bioinformatics Internship
 
 *Understand the use of programming languages used in Bioinformatics.
 
 *Learn and understand how to use biostatistics as an analysis tool.
 
-#Longterm goals from the Bioinformatics Internship
+## Longterm goals from the Bioinformatics Internship
 
 *Define a career path in Bioinformatics according to the ISCB Curriculum
 
