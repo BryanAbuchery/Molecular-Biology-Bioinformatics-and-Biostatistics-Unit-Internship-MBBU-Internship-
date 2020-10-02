@@ -46,7 +46,7 @@ a) Go through the contents of the provided Bioinformatics Internship Curriculum 
 
 - Introduction to Phylogenetics
 
-Complete a Mini-project.
+## Complete a Mini-project.
 
 b) Create and assign a to-do list that contnually adds tasks and checklist for the contents of the Internship curriculum.
 
